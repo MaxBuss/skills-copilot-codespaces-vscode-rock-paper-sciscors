@@ -1,4 +1,4 @@
-// create a web server
+// Create web server
 // create a route that accepts a POST request to /comments
 // create a middleware that will parse the incoming request body
 // create a middleware that will log the incoming request body
